@@ -51,6 +51,17 @@ Eso cambia la conversación de opiniones a evidencia.
 
 ---
 
+
+### logs
+
+
+<img width="1251" height="552" alt="image" src="https://github.com/user-attachments/assets/d3495211-a1cd-4293-ae24-c80408ab04f3" />
+
+
+----
+
+
+
 De hecho, yo haría una sección en tu portafolio llamada algo como:
 
 ```text
